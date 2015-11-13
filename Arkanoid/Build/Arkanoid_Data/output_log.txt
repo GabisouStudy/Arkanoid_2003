@@ -1,0 +1,1271 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     0 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\patrickpissurno\Desktop\Arkanoid\Build\Arkanoid_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 6.297621 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.735416 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.256591 ms  DeleteObjects: 0.009836 ms)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.121428 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.773905 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.304061 ms  DeleteObjects: 0.064147 ms)
+
+UnloadTime: 1.324442 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.684526 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.024803 ms MarkObjects: 0.336990 ms  DeleteObjects: 0.008125 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 7.589990 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.720876 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.023948 ms MarkObjects: 0.316463 ms  DeleteObjects: 0.064575 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.266708 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.878680 ms (FindLiveObjects: 0.035495 ms CreateObjectMapping: 0.036350 ms MarkObjects: 0.317746 ms  DeleteObjects: 0.009408 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.318576 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.755944 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.024376 ms MarkObjects: 0.301495 ms  DeleteObjects: 0.064575 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.392439 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.692651 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.307910 ms  DeleteObjects: 0.008125 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.270679 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.720876 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.024376 ms MarkObjects: 0.308765 ms  DeleteObjects: 0.064575 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.352239 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.794005 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.362222 ms  DeleteObjects: 0.008553 ms)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.256567 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.727291 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.024803 ms MarkObjects: 0.307910 ms  DeleteObjects: 0.066286 ms)
+
+UnloadTime: 1.418098 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.682387 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.320739 ms  DeleteObjects: 0.007697 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickLR
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.733828 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.729857 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.341694 ms  DeleteObjects: 0.066286 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.318882 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.709330 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.026514 ms MarkObjects: 0.336563 ms  DeleteObjects: 0.009408 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 6.456281 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.738838 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.316035 ms  DeleteObjects: 0.064147 ms)
+
+UnloadTime: 1.317599 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.849172 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.034639 ms MarkObjects: 0.320312 ms  DeleteObjects: 0.008125 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 64.200165 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.582036 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.008125 ms MarkObjects: 0.117176 ms  DeleteObjects: 0.030363 ms)
+
+UnloadTime: 1.286808 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.661432 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.027369 ms MarkObjects: 0.317318 ms  DeleteObjects: 0.008125 ms)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.003127 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.764497 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.026942 ms MarkObjects: 0.311331 ms  DeleteObjects: 0.091517 ms)
+
+UnloadTime: 1.167493 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.779465 ms (FindLiveObjects: 0.034639 ms CreateObjectMapping: 0.038061 ms MarkObjects: 0.375479 ms  DeleteObjects: 0.011546 ms)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.082243 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.693934 ms (FindLiveObjects: 0.020955 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.304916 ms  DeleteObjects: 0.064575 ms)
+
+UnloadTime: 1.311184 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.723870 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.028225 ms MarkObjects: 0.310476 ms  DeleteObjects: 0.009836 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 10.983418 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.744825 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.026942 ms MarkObjects: 0.331003 ms  DeleteObjects: 0.066286 ms)
+
+UnloadTime: 1.962500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.689230 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.329720 ms  DeleteObjects: 0.007697 ms)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.105336 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.815388 ms (FindLiveObjects: 0.023948 ms CreateObjectMapping: 0.040627 ms MarkObjects: 0.344260 ms  DeleteObjects: 0.075694 ms)
+
+UnloadTime: 1.283387 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.793577 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.312186 ms  DeleteObjects: 0.008125 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 12.349771 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 2.164353 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.036778 ms MarkObjects: 0.371630 ms  DeleteObjects: 0.066286 ms)
+
+UnloadTime: 1.426651 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.720449 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.029080 ms MarkObjects: 0.345971 ms  DeleteObjects: 0.008980 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickLR
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 9.918561 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.764497 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.044048 ms MarkObjects: 0.344688 ms  DeleteObjects: 0.065858 ms)
+
+UnloadTime: 1.271413 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.760648 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.335280 ms  DeleteObjects: 0.008125 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickLR
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 74.962479 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.070843 ms (FindLiveObjects: 0.012829 ms CreateObjectMapping: 0.016250 ms MarkObjects: 0.201852 ms  DeleteObjects: 0.053884 ms)
+
+UnloadTime: 1.305625 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 2.599704 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.029935 ms MarkObjects: 0.452457 ms  DeleteObjects: 0.011974 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickLR
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 61.849354 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.554666 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.119315 ms  DeleteObjects: 0.029935 ms)
+
+UnloadTime: 1.318027 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.987304 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.029935 ms MarkObjects: 0.341267 ms  DeleteObjects: 0.008553 ms)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 81.369156 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.014393 ms (FindLiveObjects: 0.012829 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.213398 ms  DeleteObjects: 0.039344 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.590014 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.713178 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.348109 ms  DeleteObjects: 0.008125 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 82.750900 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.019953 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.216392 ms  DeleteObjects: 0.038488 ms)
+
+UnloadTime: 1.289802 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.778609 ms (FindLiveObjects: 0.029508 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.359656 ms  DeleteObjects: 0.008125 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 72.895638 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.078541 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.017533 ms MarkObjects: 0.210833 ms  DeleteObjects: 0.038061 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.277400 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.693934 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.031646 ms MarkObjects: 0.347254 ms  DeleteObjects: 0.007697 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 92.461632 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.826079 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.031218 ms MarkObjects: 0.351103 ms  DeleteObjects: 0.064147 ms)
+
+UnloadTime: 1.314178 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.800420 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.031646 ms MarkObjects: 0.352386 ms  DeleteObjects: 0.007697 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 68.799568 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.821521 ms (FindLiveObjects: 0.009408 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.169350 ms  DeleteObjects: 0.035495 ms)
+
+UnloadTime: 0.635920 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 0.632499 ms (FindLiveObjects: 0.013684 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.177476 ms  DeleteObjects: 0.004276 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 29.256186 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.570917 ms (FindLiveObjects: 0.006842 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.127013 ms  DeleteObjects: 0.021382 ms)
+
+UnloadTime: 1.292368 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.783314 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.354524 ms  DeleteObjects: 0.008125 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 65.726456 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.593582 ms (FindLiveObjects: 0.006414 ms CreateObjectMapping: 0.011118 ms MarkObjects: 0.125730 ms  DeleteObjects: 0.020527 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.392439 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.876970 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.416961 ms  DeleteObjects: 0.008553 ms)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickLR
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 73.180878 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.138840 ms (FindLiveObjects: 0.012829 ms CreateObjectMapping: 0.018816 ms MarkObjects: 0.245900 ms  DeleteObjects: 0.057733 ms)
+
+UnloadTime: 1.297499 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.720876 ms (FindLiveObjects: 0.029080 ms CreateObjectMapping: 0.036350 ms MarkObjects: 0.362222 ms  DeleteObjects: 0.008553 ms)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 70.576042 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.903631 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.015823 ms MarkObjects: 0.189022 ms  DeleteObjects: 0.031646 ms)
+
+UnloadTime: 1.282959 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.728146 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.034639 ms MarkObjects: 0.366498 ms  DeleteObjects: 0.007697 ms)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerRightEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 86.735779 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.058441 ms (FindLiveObjects: 0.012829 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.220241 ms  DeleteObjects: 0.054311 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.412538 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.795288 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.035067 ms MarkObjects: 0.366071 ms  DeleteObjects: 0.008125 ms)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 90.035553 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.019525 ms (FindLiveObjects: 0.011974 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.221096 ms  DeleteObjects: 0.038916 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.249175 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.801703 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.034639 ms MarkObjects: 0.381466 ms  DeleteObjects: 0.008980 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 85.921951 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.768492 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.014540 ms MarkObjects: 0.191161 ms  DeleteObjects: 0.030363 ms)
+
+UnloadTime: 0.746254 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 0.612399 ms (FindLiveObjects: 0.014540 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.195437 ms  DeleteObjects: 0.002565 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PlayerBody
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 92.608742 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.776043 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.035067 ms MarkObjects: 0.369492 ms  DeleteObjects: 0.069279 ms)
+
+UnloadTime: 1.590870 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.749529 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.376334 ms  DeleteObjects: 0.008125 ms)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 64.820259 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.552528 ms (FindLiveObjects: 0.006414 ms CreateObjectMapping: 0.011546 ms MarkObjects: 0.132572 ms  DeleteObjects: 0.021810 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ResetSelection () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.593436 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.794005 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.407981 ms  DeleteObjects: 0.008125 ms)
+
+PlayerLeftEdge
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WallSide
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+BrickUD
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameOver
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 13.400514 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 1.815388 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.035495 ms MarkObjects: 0.366071 ms  DeleteObjects: 0.067569 ms)
+
